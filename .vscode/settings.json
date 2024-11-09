@@ -1,0 +1,6 @@
+{
+    "tailwindcss-intellisense.trace.server": "messages",
+    "tailwindCSS.lint.invalidApply": "ignore",
+    "tailwindCSS.lint.invalidConfigPath": "ignore",
+    "tailwindCSS.emmetCompletions": true
+}
